@@ -33,5 +33,5 @@ This tool has been designed in case you need to change the physical address of t
  - ... more features coming soon (as soon as I have time)
 
 # Download
-[Alias del link]: https://github.com/GiuseppeRaviolo/u064241/Change-MacAddress-Light/releases
+[Alias del link]: https://github.com/GiuseppeRaviolo/Change-MacAddress-Light/releases
 [Latest stable release][Alias del link] (recommended) 
