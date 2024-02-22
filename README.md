@@ -1,4 +1,4 @@
-# Change-MacAddress-Light
+# Change MacAddress Light
 
 # Overview
 
